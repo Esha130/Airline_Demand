@@ -120,7 +120,6 @@ streamlit run app.py
 
 **Esha Gowani**
 📫 \[eshagowani@gmail.com]
-🔗 \[LinkedIn Profile (optional)]
 🌍 [Portfolio / GitHub](https://github.com/Esha130)
 
 ---
