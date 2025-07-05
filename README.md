@@ -113,23 +113,15 @@ streamlit run app.py
 
 > Once deployed on Streamlit Cloud, add your link here:
 
-**🔗 [Open Live App](https://your-streamlit-app-url.streamlit.app)**
-*(Replace with actual URL after deployment)*
+**🔗 [Open Live App][(https://airlinedemand.streamlit.app/)]**
 
----
-
-## 📷 Screenshots
-
-> You can add screenshots here after deployment to showcase the UI and charts.
-
----
 
 ## 🧠 About the Developer
 
 **Esha Gowani**
-📫 \[Your Email]
+📫 \[eshagowani@gmail.com]
 🔗 \[LinkedIn Profile (optional)]
-🌍 [Portfolio / GitHub](https://github.com/your-username)
+🌍 [Portfolio / GitHub](https://github.com/Esha130)
 
 ---
 
@@ -139,7 +131,6 @@ This project is intended for evaluation and educational use.
 
 ````
 
----
 
 ### ✅ What You Should Do Now
 
@@ -158,4 +149,3 @@ This project is intended for evaluation and educational use.
 git add README.md
 git commit -m "Added professional README"
 git push origin main
-````
